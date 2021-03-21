@@ -1,2 +1,2 @@
 # coursera-python-capstone-projects
-This repository contains capstone projects of Google IT Automation with Python in Coursera
+This repository contains capstone projects for Google IT Automation with Python in Coursera
